@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="grant_overlay_permission">Grant overlay permission to use the floating capture button.</string>
+    <string name="start_capture">Start Capture Mode</string>
+    <string name="stop_capture">Stop Capture Mode</string>
+    <string name="my_screenshots">My Screenshots</string>
+    <string name="empty_gallery">No screenshots yet.\nTap “Start Capture Mode” and press the floating button to take one.</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="saved_toast">Screenshot saved</string>
+    <string name="capture_failed">Failed to capture screenshot</string>
+    <string name="overlay_channel_name">Capture mode</string>
+    <string name="overlay_channel_desc">Shown while the floating capture button is active.</string>
+    <string name="notification_text">Floating capture button is active. Tap it to take a screenshot.</string>
+</resources>
